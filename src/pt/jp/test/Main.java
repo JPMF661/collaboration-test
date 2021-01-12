@@ -5,6 +5,7 @@ public class Main {
 		int a = 13;
 		int b = 5;
 		System.out.println("The product of a and b is " + product(a, b));
+		System.out.println("test");
 	}
 
 	private static int product(int a, int b) {
